@@ -20,4 +20,9 @@ html {
 #blogtitle, #blogcomments {
   padding-top:1em;
   color:firebrick;
+  text-align:center;
+}
+
+.reply{
+  margin-left:50px;
 }
